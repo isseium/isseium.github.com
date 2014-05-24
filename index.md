@@ -1,46 +1,125 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: About Me
+tagline: ![icon](https://avatars3.githubusercontent.com/u/291176?s=100)
 ---
+
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+田舎育ちのWebエンジニア（フリーランス）。田舎をフィールドにITでワクワクする、そんなことに興味があります。
+農業、観光をはじめ地域の情報を扱うWebサイト、スマートフォンアプリ開発の際はぜひご連絡を。
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+## これまでつくったもの
 
-## Update Author Attributes
+- [CheekiTrip](https://cheekitrip.com)
+- population2050
+- spotmapper
+- Carblow
+- いわて食巡り
+- 東京学食巡り
+- はれつったー
+- anonymtter
+- ガンバレ.com
+- 顔ニテル
+- そこにピンがあるから、
+- QuickShot
+- Tweet Photo Slide
+- Countter
+- IPU SPACE
 
-In `_config.yml` remember to specify your own data:
+## 勉強会交流会の開催
+
+- ソフトウェア情報学入門
+- ソフトウェア情報学入門 2009
+- C言語セミナー
+- IPU TOKYO #1
+- IPU TOKYO #2
+- IPU TOKYO #3
+- IPU TOKYO #4
+- IPU TOKYO #5
+- IPU TOKYO #6
+- IPU TOKYO #7
+- IPU TOKYO #8
+- IPU TOKYO #9
+- IPU TOKYO #10
+- IPU TOKYO #11
+- IPU TOKYO #12
+- オープンデータカフェ Vol.1
+- オープンデータカフェ Vol.2
+- オープンデータカフェ Vol.3
+- オープンデータカフェ Vol.4
+- オープンデータカフェ Vol.5
+- オープンデータカフェ Vol.6
+- International Opendata Day 2014 in Takizawa
+- たきざワッカソン #1
+- たきざワッカソン #2
+- たきざワッカソン #3
+- たきざワッカソン #4
+- 盛岡ハッカソン
+- Corona SDK セミナー
+- Ti.IPU
+- 平成25年度 IPU情報システム塾 Webアプリ開発コース
+- いわてTitnaium勉強会 #1
+- いわてPHPカンファレンス
+
+## 経歴
+
+- 1988/2 秋田県大仙市生まれ
+- 2006/3 大曲工業高等学校電気科電子コース 卒業
+- 2009/1 盛岡市のITベンチャー設立に参画、同常務取締役就任
+- 2010/3 岩手県立大学ソフトウェア情報学部 卒業
+- 2010/4 Web会社（東京）に新卒入社  
+    地図サービス運用、Web広告システムのバッチ・API開発に携わる
+- 2013/4 岩手県立大学大学院ソフトウェア情報学研究科に社会人入学（〜現在）  
+    地域の魅力収集とパーソナライズした情報発信（観光推薦システム）に関する研究に従事
+- 2013/7 コミュニティづくりのベンチャー（盛岡市）に入社  
+    オープンデータの調査研究、地域への普及啓蒙に従事
+
+## 研究発表
     
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+- Jun Sasaki, Takuya Sakuyama, Shizune Takahashi, Issei Komatsu, Keizo Yamada, Masanori Takagi, Local-Charm-Content Delivering Model by Using Web Advertisement and SNS, The 8th International Conference on Advanced Information Technologies (AIT), No.221, (2014-04-19).
+- 小松 一星, 山田敬三, 高木正則, 佐々木淳, 小松 一星ら, チェックインサービスを利用した観光履歴収集システムの提案, 電子情報通信学会, 2014年総合大会講演論文集，(2014-03-18).
+- 小松 一星, 山田敬三, 佐々木淳, デジタルフォトフレームを活用した小規模デジタルサイネージシステムの構築と評価, 情報処理学会創立50周年記念（第72回）全国大会, (2010-03-12).
+- 船越幸治, 小松一星, 山田敬三, 佐々木淳, 電話とFAXを利用した農業情報システムの提案, 情報処理学会創立50周年記念（第72回）全国大会, (2010-03-12).
+- 小松 一星, 地方への顧客誘導促進システム「いわてフォトアルバム」の構築, 岩手県立大学PBL成果報告会, (2010-02-19).  
+    最優秀賞受賞
+- 小松 一星, 田中充, 山田敬三, 佐々木淳, 在宅医療連携支援Webアプリケーションの構築, 電気関係学会東北支部連合大会講演論文集, (2008-08-22).
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+## 資格
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+- 実用英語検定（英検）準2級 (2004-02-27)
+- 基本情報技術者(2004-05-18)
+- 日本漢字能力検定（漢検）2級(2004-07-06)
+- 工事担任者デジタル三種(2004-07-06)
+- 電気工事士 第二種(2004-09-27)
+- 日本語文章能力検定（文検）3級(2004-11-25)
+- 危険物取扱者乙種全類(2004-12-22)
+- 情報技術検定1級(2005-02-04)
+- 計算技術検定2級(2005-07-11)
+- ソフトウェア開発技術者(2005-06-16)
+- 初級システムアドミニストレータ(2005-11-11)
+- 第一種普通自動車免許 (2009-3)
+- データベーススペシャリスト(2009-06-30)
+- ネットワークスペシャリスト(2009-12-21)
+- 情報セキュリティスペシャリスト(2010-12-20)
 
-    $ rm -rf _posts/core-samples
 
-Here's a sample "posts list".
+## 旅行
 
+- フィリピン
+- スペイン
+- タイ
+- 伊豆・熱海
+- 栃木・茨城
+- 山梨
+- 新潟
+- 岩手～岡山往復高速道路ドライブ
+- 岩手県内全市町村巡り
+- 青春18切符 岩手～東京往復の旅
+
+## blog posts
 <ul class="posts">
   {% for post in site.posts %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
