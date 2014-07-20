@@ -1,66 +1,27 @@
 ---
 layout: page
-title: About Me
+title: Welcome
 tagline: ![icon](https://avatars3.githubusercontent.com/u/291176?s=100)
 ---
 
-{% include JB/setup %}
-
-田舎育ちのWebエンジニア（フリーランス）。田舎をフィールドにITでワクワクする、そんなことに興味があります。
-農業、観光をはじめ地域の情報を扱うWebサイト、スマートフォンアプリ開発の際はぜひご連絡を。
+田舎育ちのWebエンジニア。田舎をフィールドにITでワクワクする、そんなことに興味があります。
+農業、観光をはじめ地域の情報を扱うWebサイト・スマホアプリ開発の際はぜひご連絡を。
 
 ## これまでつくったもの
 
+- You ([iOS](https://itunes.apple.com/jp/app/you!-tuwotappushite-you-dawo/id897078747?mt=8), [Android](https://play.google.com/store/apps/details?id=net.ikmz.dev.you&hl=ja))
 - [CheekiTrip](https://cheekitrip.com)
-- population2050
-- spotmapper
-- Carblow
-- いわて食巡り
-- 東京学食巡り
-- はれつったー
-- anonymtter
-- ガンバレ.com
-- 顔ニテル
-- そこにピンがあるから、
-- QuickShot
-- Tweet Photo Slide
-- Countter
-- IPU SPACE
-
-## 勉強会交流会の開催
-
-- ソフトウェア情報学入門
-- ソフトウェア情報学入門 2009
-- C言語セミナー
-- IPU TOKYO #1
-- IPU TOKYO #2
-- IPU TOKYO #3
-- IPU TOKYO #4
-- IPU TOKYO #5
-- IPU TOKYO #6
-- IPU TOKYO #7
-- IPU TOKYO #8
-- IPU TOKYO #9
-- IPU TOKYO #10
-- IPU TOKYO #11
-- IPU TOKYO #12
-- オープンデータカフェ Vol.1
-- オープンデータカフェ Vol.2
-- オープンデータカフェ Vol.3
-- オープンデータカフェ Vol.4
-- オープンデータカフェ Vol.5
-- オープンデータカフェ Vol.6
-- International Opendata Day 2014 in Takizawa
-- たきざワッカソン #1
-- たきざワッカソン #2
-- たきざワッカソン #3
-- たきざワッカソン #4
-- 盛岡ハッカソン
-- Corona SDK セミナー
-- Ti.IPU
-- 平成25年度 IPU情報システム塾 Webアプリ開発コース
-- いわてTitnaium勉強会 #1
-- いわてPHPカンファレンス
+- [population2050](http://population2050.ikmz.net)
+- [spotmapper](http://spotmapper.ikmz.net/);
+- Carblow ([iOS](https://itunes.apple.com/us/app/carblow-chewo-meisero/id687067179?mt=8), [Android](https://play.google.com/store/apps/details?id=com.cheekit.carblow&hl=ja))
+- [いわて食巡り](https://itunes.apple.com/jp/app/iwate-shi-xunri/id655530793?mt=8)
+- [東京学食巡り](https://itunes.apple.com/jp/app/dong-jing-xue-shi-xunri/id624075183?mt=8)
+- [はれつったー](https://twitter.com/haretsutter_mor)
+- [ガンバレ.com](http://xn--mckvdvd0a.com/)
+- [そこにピンがあるから、](https://play.google.com/store/apps/details?id=jp.bulldozer&hl=ja)
+- [QuickShot](https://play.google.com/store/apps/details?id=com.mizuhataya.android.quickshotlite&hl=ja)
+- [Tweet Photo Slide](https://play.google.com/store/apps/details?id=com.mizuhataya.android.tweetphotoslide&hl=ja)
+- [Countter](http://countter.cheekit.com/)
 
 ## 経歴
 
@@ -77,35 +38,45 @@ tagline: ![icon](https://avatars3.githubusercontent.com/u/291176?s=100)
 
 ## 研究発表
     
+- Issei Komatsu, Masanori TAKAGI, Keizo YAMADA, and Jun SASAKI, Strategy to Activate Rural Areas Using Web Advertising and Social Networks, SOMET 2014, (2014-09) 
+- Web広告を用いたターゲットユーザ絞り込み方法の提案, 小松 一星，高橋 靜音, 咲山 拓也, 山田 敬三，高木 正則，佐々木 淳, 平成26年度電気関係学会東北支部連合大会, (2014-08)
 - Jun Sasaki, Takuya Sakuyama, Shizune Takahashi, Issei Komatsu, Keizo Yamada, Masanori Takagi, Local-Charm-Content Delivering Model by Using Web Advertisement and SNS, The 8th International Conference on Advanced Information Technologies (AIT), No.221, (2014-04-19).
-- 小松 一星, 山田敬三, 高木正則, 佐々木淳, 小松 一星ら, チェックインサービスを利用した観光履歴収集システムの提案, 電子情報通信学会, 2014年総合大会講演論文集，(2014-03-18).
+- 小松 一星, 山田敬三, 高木正則, 佐々木淳, チェックインサービスを利用した観光履歴収集システムの提案, 電子情報通信学会, 2014年総合大会講演論文集，(2014-03-18).
 - 小松 一星, 山田敬三, 佐々木淳, デジタルフォトフレームを活用した小規模デジタルサイネージシステムの構築と評価, 情報処理学会創立50周年記念（第72回）全国大会, (2010-03-12).
 - 船越幸治, 小松一星, 山田敬三, 佐々木淳, 電話とFAXを利用した農業情報システムの提案, 情報処理学会創立50周年記念（第72回）全国大会, (2010-03-12).
-- 小松 一星, 地方への顧客誘導促進システム「いわてフォトアルバム」の構築, 岩手県立大学PBL成果報告会, (2010-02-19).  
-    最優秀賞受賞
+- 小松 一星, 地方への顧客誘導促進システム「いわてフォトアルバム」の構築, 岩手県立大学PBL成果報告会, (2010-02-19).  最優秀賞受賞
 - 小松 一星, 田中充, 山田敬三, 佐々木淳, 在宅医療連携支援Webアプリケーションの構築, 電気関係学会東北支部連合大会講演論文集, (2008-08-22).
+
+## 受賞
+ 
+- 2010/02 岩手県立大学ソフトウェア情報学部PBL最優秀賞
+- 2008/03 岩手県立大学学長特別賞
+- 2006/03 ジュニアマイスターゴールド個人特別表彰
 
 ## 資格
 
-- 実用英語検定（英検）準2級 (2004-02-27)
-- 基本情報技術者(2004-05-18)
-- 日本漢字能力検定（漢検）2級(2004-07-06)
-- 工事担任者デジタル三種(2004-07-06)
-- 電気工事士 第二種(2004-09-27)
-- 日本語文章能力検定（文検）3級(2004-11-25)
-- 危険物取扱者乙種全類(2004-12-22)
-- 情報技術検定1級(2005-02-04)
-- 計算技術検定2級(2005-07-11)
-- ソフトウェア開発技術者(2005-06-16)
-- 初級システムアドミニストレータ(2005-11-11)
-- 第一種普通自動車免許 (2009-3)
-- データベーススペシャリスト(2009-06-30)
-- ネットワークスペシャリスト(2009-12-21)
-- 情報セキュリティスペシャリスト(2010-12-20)
+- 2014/06/20 プロジェクトマネージャー
+- 2010/12/20 情報セキュリティスペシャリスト
+- 2009/12/21 ネットワークスペシャリスト
+- 2009/06/30 データベーススペシャリスト
+- 2009/03/17 第一種普通自動車免許
+- 2005/11/11 初級システムアドミニストレータ
+- 2005/06/16 ソフトウェア開発技術者
+- 2005/07/11 計算技術検定2級
+- 2005/02/04 情報技術検定1級
+- 2004/12/22 危険物取扱者乙種全類
+- 2004/11/25 日本語文章能力検定（文検）3級
+- 2004/09/27 電気工事士 第二種
+- 2004/07/06 工事担任者デジタル三種
+- 2004/07/06 日本漢字能力検定（漢検）2級
+- 2004/05/18 基本情報技術者
+- 2004/02/27 実用英語検定（英検）準2級
 
 
 ## 旅行
 
+- 2014/06 富岡製糸場
+- 宇都宮
 - フィリピン
 - スペイン
 - タイ
@@ -116,10 +87,3 @@ tagline: ![icon](https://avatars3.githubusercontent.com/u/291176?s=100)
 - 岩手～岡山往復高速道路ドライブ
 - 岩手県内全市町村巡り
 - 青春18切符 岩手～東京往復の旅
-
-## blog posts
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
