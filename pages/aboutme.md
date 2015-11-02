@@ -7,19 +7,19 @@ description: ""
 
 ## これまでつくったもの
 
-- You ([iOS](https://itunes.apple.com/jp/app/you!-tuwotappushite-you-dawo/id897078747?mt=8), [Android](https://play.google.com/store/apps/details?id=net.ikmz.dev.you&hl=ja))
-- [CheekiTrip](https://cheekitrip.com)
+- You ([iOS](https://itunes.apple.com/jp/app/you!-tuwotappushite-you-dawo/id897078747?mt=8), [Android](https://play.google.com/store/apps/details?id=net.ikmz.dev.you&hl=ja)) 【公開終了】
+- [CheekiTrip](https://cheekitrip.com)【公開終了】
 - [population2050](http://population2050.ikmz.net)
-- [spotmapper](http://spotmapper.ikmz.net/);
-- Carblow ([iOS](https://itunes.apple.com/us/app/carblow-chewo-meisero/id687067179?mt=8), [Android](https://play.google.com/store/apps/details?id=com.cheekit.carblow&hl=ja))
-- [いわて食巡り](https://itunes.apple.com/jp/app/iwate-shi-xunri/id655530793?mt=8)
-- [東京学食巡り](https://itunes.apple.com/jp/app/dong-jing-xue-shi-xunri/id624075183?mt=8)
-- [はれつったー](https://twitter.com/haretsutter_mor)
+- [spotmapper](http://spotmapper.ikmz.net/)
+- Carblow ([iOS](https://itunes.apple.com/us/app/carblow-chewo-meisero/id687067179?mt=8), [Android](https://play.google.com/store/apps/details?id=com.cheekit.carblow&hl=ja)) 【公開終了】
+- [いわて食巡り](https://itunes.apple.com/jp/app/iwate-shi-xunri/id655530793?mt=8) 【公開終了】
+- [東京学食巡り](https://itunes.apple.com/jp/app/dong-jing-xue-shi-xunri/id624075183?mt=8) 【公開終了】
+- [はれつったー](https://twitter.com/haretsutter_mor) 
 - [ガンバレ.com](http://xn--mckvdvd0a.com/)
 - [そこにピンがあるから、](https://play.google.com/store/apps/details?id=jp.bulldozer&hl=ja)
 - [QuickShot](https://play.google.com/store/apps/details?id=com.mizuhataya.android.quickshotlite&hl=ja)
 - [Tweet Photo Slide](https://play.google.com/store/apps/details?id=com.mizuhataya.android.tweetphotoslide&hl=ja)
-- [Countter](http://countter.cheekit.com/)
+- [Countter](http://countter.xyz/)
 
 ## 経歴
 
@@ -29,11 +29,16 @@ description: ""
 - 2010/03 岩手県立大学ソフトウェア情報学部 卒業
 - 2010/04 Webポータル会社（港区）に新卒入社  （〜2013/03）
     - 地図サービス運用、Web広告システムのバッチ・API開発に携わる
-- 2013/04 岩手県立大学大学院ソフトウェア情報学研究科に社会人入学（〜現在）  
+- 2013/04 岩手県立大学大学院ソフトウェア情報学研究科に社会人入学（〜2015/03 修了）  
     - 地域の魅力収集とパーソナライズした情報発信（観光推薦システム）に関する研究に従事
-- 2013/07 コミュニティづくりのベンチャー（盛岡市）に契約社員として入社（〜2014/03）
+- 2013/07 株式会社CCL（盛岡市）に契約社員として入社（〜2014/03）
     - オープンデータの調査研究、地域への普及啓蒙に従事
-- 2014/08 株式会社チイキット（盛岡市）を共同創業．同取締役CTO就任（〜現在）
+- 2014/08 株式会社チイキット（盛岡市）を共同創業（〜 2015/08）
+    - 最高技術責任者（CTO）としてクラウドソーシング事業に携わる
+- 2015/05 個人事業主開業（〜 現在）
+    - tripnote 観光系サービス開発
+- 2015/11 ソフトウェア共創研究基盤株式会社 代表取締役就任（〜 現在）
+
 
 ### その他の経歴
 - IPU TOKYO 運営 (2010-)
@@ -43,9 +48,10 @@ description: ""
 ## 研究発表
     
 - 2015
-   - 手塚祐樹, 咲山拓哉, 小松一星, 山田敬三, 高木正則, 佐々木淳, ID3を用いた訪問者プロフィールからの観光特性分析手法の提案, 情報処理学会全国大会, (2015/03/18 予定).
-   - 高橋靜音,小松一星, 山田敬三, 高木正則, 佐々木淳, SNSデータを用いた個別ユーザ適応型観光スポット表示システムの提案, 情報処理学会全国大会, (2015/03/18 予定).
-   - 李爽, 高橋靜音,小松一星, 山田敬三, 高木正則, 佐々木淳, 写真共有サービスを用いた外国人向け観光スポット推薦システムの提案, 情報処理学会全国大会, (2015/03/18 予定).
+   - Jun Sasaki, Shizune Takahashi, Li Shuang, Issei Komatsu, Keizo Yamada, Masanori Takagi, Finding  Target  Users Interested  in  Regional Areas using Online Advertising and Social Network Services, SOMET 2015, (2015/09/15).
+   - 手塚祐樹, 咲山拓哉, 小松一星, 山田敬三, 高木正則, 佐々木淳, ID3を用いた訪問者プロフィールからの観光特性分析手法の提案, 情報処理学会全国大会, (2015/03/18).
+   - 高橋靜音,小松一星, 山田敬三, 高木正則, 佐々木淳, SNSデータを用いた個別ユーザ適応型観光スポット表示システムの提案, 情報処理学会全国大会, (2015/03/18).
+   - 李爽, 高橋靜音,小松一星, 山田敬三, 高木正則, 佐々木淳, 写真共有サービスを用いた外国人向け観光スポット推薦システムの提案, 情報処理学会全国大会, (2015/03/18).
 - 2014
     - Issei Komatsu, Masanori TAKAGI, Keizo YAMADA, and Jun SASAKI, Strategy to Activate Rural Areas Using Web Advertising and Social Networks, SOMET 2014, (2014/09/24) 
     - 小松一星, 高橋靜音, 咲山拓也, 山田敬三, 高木正則, 佐々木淳, Web広告を用いたターゲットユーザ絞り込み方法の提案, 平成26年度電気関係学会東北支部連合大会, (2014/08/22).
@@ -79,6 +85,8 @@ description: ""
 ＊各種運営団体のメンバーとして参画・運営したものも含まれます
 
 - 2015
+    - IPU TOKYO #17 (2015/07/17)
+    - 岩手 x IT x 若手 vol.1 (2015/05/31)
     - 第6回 岩手県立大学同窓会関東支部交流会 (2015/02/28)
     - いわてTitanium勉強会 #8 (2015/02/25)
     - IPU TOKYO #16 (2015/02/07)
@@ -137,6 +145,7 @@ description: ""
 
 ## 受賞
  
+- 2015/03 岩手県立大学大学院ソフトウェア情報学研究科長賞
 - 2010/02 岩手県立大学ソフトウェア情報学部PBL最優秀賞
 - 2008/03 岩手県立大学学長特別賞
 - 2006/03 ジュニアマイスターゴールド個人特別表彰
