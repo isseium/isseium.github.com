@@ -14,7 +14,7 @@ description: ""
 - Carblow ([iOS](https://itunes.apple.com/us/app/carblow-chewo-meisero/id687067179?mt=8), [Android](https://play.google.com/store/apps/details?id=com.cheekit.carblow&hl=ja)) 【公開終了】
 - [いわて食巡り](https://itunes.apple.com/jp/app/iwate-shi-xunri/id655530793?mt=8) 【公開終了】
 - [東京学食巡り](https://itunes.apple.com/jp/app/dong-jing-xue-shi-xunri/id624075183?mt=8) 【公開終了】
-- [はれつったー](https://twitter.com/haretsutter_mor) 
+- [はれつったー](https://twitter.com/haretsutter_mor)
 - [ガンバレ.com](http://xn--mckvdvd0a.com/)
 - [そこにピンがあるから、](https://play.google.com/store/apps/details?id=jp.bulldozer&hl=ja)
 - [QuickShot](https://play.google.com/store/apps/details?id=com.mizuhataya.android.quickshotlite&hl=ja)
@@ -29,14 +29,14 @@ description: ""
 - 2010/03 岩手県立大学ソフトウェア情報学部 卒業
 - 2010/04 Webポータル会社（港区）に新卒入社  （〜2013/03）
     - 地図サービス運用、Web広告システムのバッチ・API開発に携わる
-- 2013/04 岩手県立大学大学院ソフトウェア情報学研究科に社会人入学（〜2015/03 修了）  
+- 2013/04 岩手県立大学大学院ソフトウェア情報学研究科に社会人入学（〜2015/03 修了）
     - 地域の魅力収集とパーソナライズした情報発信（観光推薦システム）に関する研究に従事
 - 2013/07 株式会社CCL（盛岡市）に契約社員として入社（〜2014/03）
     - オープンデータの調査研究、地域への普及啓蒙に従事
 - 2014/08 株式会社チイキット（盛岡市）を共同創業（〜 2015/08）
     - 最高技術責任者（CTO）としてクラウドソーシング事業に携わる
 - 2015/05 個人事業主開業（〜 現在）
-    - tripnote 観光系サービス開発
+    - 観光系サービス開発
 - 2015/11 ソフトウェア共創研究基盤株式会社 代表取締役就任（〜 現在）
 
 
@@ -46,14 +46,14 @@ description: ""
 - 岩手県立大学同窓会 幹事 (2013-)
 
 ## 研究発表
-    
+
 - 2015
    - Jun Sasaki, Shizune Takahashi, Li Shuang, Issei Komatsu, Keizo Yamada, Masanori Takagi, Finding  Target  Users Interested  in  Regional Areas using Online Advertising and Social Network Services, SOMET 2015, (2015/09/15).
    - 手塚祐樹, 咲山拓哉, 小松一星, 山田敬三, 高木正則, 佐々木淳, ID3を用いた訪問者プロフィールからの観光特性分析手法の提案, 情報処理学会全国大会, (2015/03/18).
    - 高橋靜音,小松一星, 山田敬三, 高木正則, 佐々木淳, SNSデータを用いた個別ユーザ適応型観光スポット表示システムの提案, 情報処理学会全国大会, (2015/03/18).
    - 李爽, 高橋靜音,小松一星, 山田敬三, 高木正則, 佐々木淳, 写真共有サービスを用いた外国人向け観光スポット推薦システムの提案, 情報処理学会全国大会, (2015/03/18).
 - 2014
-    - Issei Komatsu, Masanori TAKAGI, Keizo YAMADA, and Jun SASAKI, Strategy to Activate Rural Areas Using Web Advertising and Social Networks, SOMET 2014, (2014/09/24) 
+    - Issei Komatsu, Masanori TAKAGI, Keizo YAMADA, and Jun SASAKI, Strategy to Activate Rural Areas Using Web Advertising and Social Networks, SOMET 2014, (2014/09/24)
     - 小松一星, 高橋靜音, 咲山拓也, 山田敬三, 高木正則, 佐々木淳, Web広告を用いたターゲットユーザ絞り込み方法の提案, 平成26年度電気関係学会東北支部連合大会, (2014/08/22).
     - 盛内大輔, 小松一星, 漆原翔也, 高橋靜音, 咲山拓也, 山田敬三, 高木正則, 佐々木淳, 宅地付農地を対象としたWeb広告配信実験における広告媒体の比較, 平成26年度電気関係学会東北支部連合大会, (2014/08/22).
     - 漆原翔也, 小松一星, 盛内大輔, 手塚祐樹, 山田敬三, 高木正則, 佐々木淳, 宅地付農地を対象とした魅力発信モデルの提案, 平成26年度電気関係学会東北支部連合大会, (2014/08/22).
@@ -68,8 +68,12 @@ description: ""
 
 ## 講師・講演等
 
+- 2016
+    - ...
 - 2015
-    - 小松一星，クラウドソーシングの紹介, 第3回いわて組込み技術研究会，口頭発表（2014-01-26）
+    - 小松一星，クラウドソーシングセミナー, 雫石町, 口頭発表（2015-12-03）
+    - 小松一星，新しい働き方〜クラウドソーシングの紹介〜, 経済問題懇談会, 口頭発表（2015-06-26）
+    - 小松一星，クラウドソーシングの紹介, 第3回いわて組込み技術研究会，口頭発表（2015-01-26）
 - 2014
     - 岩手県人口問題対策本部, 若者の活躍と支援に関する意見交換会, 登壇, (2014-12-15).
     - 小松一星, 盛内大輔, 漆原翔也, 高橋靜音, 雫石プロジェクトの紹介, IISAテクニカルカンファレンス2014, 口頭発表, (2014-11-21).
@@ -79,12 +83,17 @@ description: ""
 - 2013
     - 小松一星, 米田大地, Titaniumの紹介, IISAテクニカルカンファレンス2013, 口頭発表, (2013-11-22).
     - IPU情報システム塾 Webアプリケーション開発IIコース 講師, (2013)
-    
+
 ## コミュニティ運営等
-    
+
 ＊各種運営団体のメンバーとして参画・運営したものも含まれます
 
+- 2016
+    - IPU TOKYO #19 (2016/06/04)
+    - IPU Slack オフ会 (2015/04/30)
+    - ミライトークカフェ2015 (2015/01/30)
 - 2015
+    - IPU TOKYO #18 (2015/12/28)
     - IPU TOKYO #17 (2015/07/17)
     - 岩手 x IT x 若手 vol.1 (2015/05/31)
     - 第6回 岩手県立大学同窓会関東支部交流会 (2015/02/28)
@@ -144,7 +153,7 @@ description: ""
     - ソフトウェア情報学入門セミナー
 
 ## 受賞
- 
+
 - 2015/03 岩手県立大学大学院ソフトウェア情報学研究科長賞
 - 2010/02 岩手県立大学ソフトウェア情報学部PBL最優秀賞
 - 2008/03 岩手県立大学学長特別賞
@@ -152,6 +161,8 @@ description: ""
 
 ## 資格
 
+- 2015
+    - システムアナリスト (2015/12/18)
 - 2014
     - システムアーキテクト (2014/12/19)
     - プロジェクトマネージャー (2014/06/20)
