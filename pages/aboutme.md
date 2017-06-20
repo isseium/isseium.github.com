@@ -16,9 +16,9 @@ description: ""
 - [東京学食巡り](https://itunes.apple.com/jp/app/dong-jing-xue-shi-xunri/id624075183?mt=8) 【公開終了】
 - [はれつったー](https://twitter.com/haretsutter_mor)
 - [ガンバレ.com](http://xn--mckvdvd0a.com/)
-- [そこにピンがあるから、](https://play.google.com/store/apps/details?id=jp.bulldozer&hl=ja)
-- [QuickShot](https://play.google.com/store/apps/details?id=com.mizuhataya.android.quickshotlite&hl=ja)
-- [Tweet Photo Slide](https://play.google.com/store/apps/details?id=com.mizuhataya.android.tweetphotoslide&hl=ja)
+- [そこにピンがあるから、](https://play.google.com/store/apps/details?id=jp.bulldozer&hl=ja) 【公開終了】
+- [QuickShot](https://play.google.com/store/apps/details?id=com.mizuhataya.android.quickshotlite&hl=ja) 【公開終了】
+- [Tweet Photo Slide](https://play.google.com/store/apps/details?id=com.mizuhataya.android.tweetphotoslide&hl=ja) 【公開終了】
 - [Countter](http://countter.xyz/)
 
 ## 経歴
@@ -38,17 +38,23 @@ description: ""
 - 2015/05 個人事業主開業（〜 2016/12）
     - 観光系サービス開発
 - 2015/11 ソフトウェア共創研究基盤株式会社（現 モントワークス株式会社） 代表取締役就任（〜 現在）
-
+- 2016/02 tripnote.jp CTO （〜 現在）
 
 ### その他の経歴
-- IPU TOKYO 運営 (2010-)
+
+- IPU TOKYO ファウンダー (2010-)
 - 岩手県立大学同窓会関東支部 幹事 (2010-2012)
+- IPU Slack ファウンダー&共同管理人(2014-)
 - 岩手県立大学同窓会 幹事 (2013-)
+- 岩手県立大学同窓会岩手支部 共同発起人&支部幹事 (2017-)
+- IPU Biz ファウンダー (2016-)
+- いわてWeb+DB Press を読む会 (ベル会) ファウンダー (2017-)
 
 ## 研究発表
 
 - 2015
    - Jun Sasaki, Shizune Takahashi, Li Shuang, Issei Komatsu, Keizo Yamada, Masanori Takagi, Finding  Target  Users Interested  in  Regional Areas using Online Advertising and Social Network Services, SOMET 2015, (2015/09/15).
+   - Jun Sasaki, Issei Komatsu, Keizo Yamada, Masanori Takagi, Effect of Web Advertisement for Finding Target Users Interested in Rural Areas, SOMET 2014, (2015/05/07)
    - 手塚祐樹, 咲山拓哉, 小松一星, 山田敬三, 高木正則, 佐々木淳, ID3を用いた訪問者プロフィールからの観光特性分析手法の提案, 情報処理学会全国大会, (2015/03/18).
    - 高橋靜音,小松一星, 山田敬三, 高木正則, 佐々木淳, SNSデータを用いた個別ユーザ適応型観光スポット表示システムの提案, 情報処理学会全国大会, (2015/03/18).
    - 李爽, 高橋靜音,小松一星, 山田敬三, 高木正則, 佐々木淳, 写真共有サービスを用いた外国人向け観光スポット推薦システムの提案, 情報処理学会全国大会, (2015/03/18).
@@ -68,6 +74,8 @@ description: ""
 
 ## 講師・講演等
 
+- 2016
+    - 小松一星, 先輩の声を聞いてみよう, スターティアラボ株式会社岩手オフィス, インターンシップ (2016-09-09)
 - 2015
     - 小松一星，クラウドソーシングセミナー, 雫石町, 口頭発表（2015-12-03）
     - 小松一星，新しい働き方〜クラウドソーシングの紹介〜, 経済問題懇談会, 口頭発表（2015-06-26）
@@ -86,6 +94,15 @@ description: ""
 
 ＊各種運営団体のメンバーとして参画・運営したものも含まれます
 
+- 2017
+    - IPU Meetup 2017 夏 (2017/08/11)
+    - いわてWeb+DB Pressを読む会 / ベル会 #4 (2017/07/10)
+    - IPU TOKYO #21 (2017/06/10)
+    - IPU Biz #2 (2017/05/11)
+    - いわてWeb+DB Pressを読む会 / ベル会 #3 (2017/05/08)
+    - いわてWeb+DB Pressを読む会 / ベル会 #2 (2017/04/03)
+    - 岩手県立大学同窓会岩手支部設立総会・交流会 (2017/02/10)
+    - いわてWeb+DB Pressを読む会 / ベル会 #1 (2017/01/05)
 - 2016
     - IPU TOKYO 忘年会 in 盛岡 (2016/12/29)
     - IPU TOKYO #20 (2016/11/26)
