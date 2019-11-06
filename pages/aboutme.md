@@ -9,17 +9,17 @@ description: ""
 
 - You ([iOS](https://itunes.apple.com/jp/app/you!-tuwotappushite-you-dawo/id897078747?mt=8), [Android](https://play.google.com/store/apps/details?id=net.ikmz.dev.you&hl=ja)) 【公開終了】
 - [CheekiTrip](https://cheekitrip.com)【公開終了】
-- [population2050](http://population2050.ikmz.net)
-- [spotmapper](http://spotmapper.ikmz.net/)
+- [population2050](http://population2050.ikmz.net)【公開終了】
+- [spotmapper](http://spotmapper.ikmz.net/)【公開終了】
 - Carblow ([iOS](https://itunes.apple.com/us/app/carblow-chewo-meisero/id687067179?mt=8), [Android](https://play.google.com/store/apps/details?id=com.cheekit.carblow&hl=ja)) 【公開終了】
 - [いわて食巡り](https://itunes.apple.com/jp/app/iwate-shi-xunri/id655530793?mt=8) 【公開終了】
 - [東京学食巡り](https://itunes.apple.com/jp/app/dong-jing-xue-shi-xunri/id624075183?mt=8) 【公開終了】
-- [はれつったー](https://twitter.com/haretsutter_mor)
-- [ガンバレ.com](http://xn--mckvdvd0a.com/)
+- [はれつったー](https://twitter.com/haretsutter_mor)【Deprecated】
+- [ガンバレ.com](http://xn--mckvdvd0a.com/)【Deprecated】
 - [そこにピンがあるから、](https://play.google.com/store/apps/details?id=jp.bulldozer&hl=ja) 【公開終了】
 - [QuickShot](https://play.google.com/store/apps/details?id=com.mizuhataya.android.quickshotlite&hl=ja) 【公開終了】
 - [Tweet Photo Slide](https://play.google.com/store/apps/details?id=com.mizuhataya.android.tweetphotoslide&hl=ja) 【公開終了】
-- [Countter](http://countter.xyz/)
+- [Countter](http://countter.xyz/)【公開終了】
 
 ## 経歴
 
@@ -42,12 +42,12 @@ description: ""
 
 ### その他の経歴
 
-- IPU TOKYO ファウンダー (2010-)
+- IPU TOKYO / IPPP ファウンダー (2010-)
 - 岩手県立大学同窓会関東支部 幹事 (2010-2012)
 - IPU Slack ファウンダー&共同管理人(2014-)
-- 岩手県立大学同窓会 幹事 (2013-)
+- 岩手県立大学同窓会 幹事 (2013-2019)
 - 岩手県立大学同窓会岩手支部 共同発起人&支部幹事 (2017-)
-- IPU Biz ファウンダー (2016-)
+- IPU Biz ファウンダー (2016)
 - いわてWeb+DB Press を読む会 (ベル会) ファウンダー (2017-)
 
 ## 研究発表
@@ -94,7 +94,25 @@ description: ""
 
 ＊各種運営団体のメンバーとして参画・運営したものも含まれます
 
+- 2019
+    - いわてWeb+DB Pressを読む会 / ベル会 #18 (2019/11/11)
+    - いわてWeb+DB Pressを読む会 / ベル会 #17 (2019/09/09)
+    - 岩手県立大学同窓会岩手支部交流会2019 (2019/08/10)
+    - IPPP Iwate 2019 (2018/08/11)
+    - 中仙中学校40期生厄払い兼同期会 (2018/08/16)
+    - いわてWeb+DB Pressを読む会 / ベル会 #16 (2019/07/16)
+    - いわてWeb+DB Pressを読む会 / ベル会 #15 (2019/05/27)
+    - いわてWeb+DB Pressを読む会 / ベル会 #14 (2019/03/11)
+    - いわてWeb+DB Pressを読む会 / ベル会 #13 (2019/01/21)
 - 2018
+    - いわてWeb+DB Pressを読む会 / ベル会 #12 (2018/11/12)
+    - 岩手県立大学同窓会ホームカミングデー2018 (2018/10/20)
+    - いわてWeb+DB Pressを読む会 / ベル会 #11 (2018/09/10)
+    - 岩手県立大学同窓会岩手支部交流会2018 (2018/08/11)
+    - IPPP Iwate 2018 (2018/08/11)
+    - いわてWeb+DB Pressを読む会 / ベル会 #10 (2018/07/09)
+    - いわてWeb+DB Pressを読む会 / ベル会 #9 (2018/05/14)
+    - いわてWeb+DB Pressを読む会 / ベル会 #8 (2018/03/12)
     - 岩手県立大学同窓会岩手支部総会・交流会 (2018/02/10)
     - いわてWeb+DB Pressを読む会 / ベル会 #7 (2018/01/22)
 - 2017
@@ -184,6 +202,8 @@ description: ""
 ## 資格
 
 
+- 2019
+    - エンベデッドシステムスペシャリスト (2019/06/21)
 - 2017
     - 情報処理安全確保支援士 (2017/04/01)
 - 2015
