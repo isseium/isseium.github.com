@@ -3,12 +3,11 @@ layout: page
 title: "Welcome to issei's website"
 ---
 
-Issei Komatsu
+Issei Komatsu / isseium
 
-田舎育ちのWebエンジニア。Web上ではisseium という名前で活動しています。<br /> 
-田舎をフィールドにITでワクワクする、そんなことに興味があります。
-
-農業、観光をはじめ地域の情報を扱うWebサービス・スマホアプリ開発の際はぜひご連絡を。
+田舎育ちのソフトウェアエンジニア。<br />
+観光や農業といった地方や地域の情報を取り扱うソフトウェア・ITサービスに興味があります。
+Webサービス・スマホアプリ開発の際はぜひご連絡ください。
 
 
 [>>これまでの経歴など](/pages/aboutme.html)
